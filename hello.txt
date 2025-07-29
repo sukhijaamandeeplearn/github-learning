@@ -1,4 +1,5 @@
 Hello GitHub!
 
-Main branch version of this line
+Final version after conflict resolution
+
 
