@@ -1,4 +1,4 @@
 Hello GitHub!
 
-Main branch version of this line
+Conflicting version from feature branch
 
