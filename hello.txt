@@ -1,4 +1,5 @@
 Hello GitHub!
 
-Conflicting version from feature branch
+Final version after conflict resolution
+
 
